@@ -88,7 +88,7 @@ Nuxt.js 将使用上面的配置来设置 Vue.js transition 组件，如下：
 
 ## Function
 
-如果 `transition` 属性的值类型时函数：
+如果 `transition` 属性的值类型是函数：
 
 ```js
 export default {
